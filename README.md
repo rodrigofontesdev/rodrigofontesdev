@@ -55,17 +55,6 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
 <table>
   <tbody>
     <tr>
-      <td width="100%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true" height="195" />
-        <img src="https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true" height="195" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true" height="195" />
       </td>
@@ -76,6 +65,4 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
   </tbody>
 </table>
 
-![rodrigofontesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true)
-![rodrigofontesdev's Stats](https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true)
 [![rodrigofontesdev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofontesdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
