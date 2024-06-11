@@ -2,11 +2,11 @@
 
 # 👨‍💻 I'm a Full-Stack Web Developer
 
-Brazilian from São Paulo, born in 1995, I'm a software developer with **9 years of experience**. I have extensive experience in PHP and am currently learning **React**, **React Native**, and **Node.js**.
+Brazilian from São Paulo, I'm a Web Developer with 9 years of experience. I have extensive background in PHP and am currently learning **React** and **Node**.
 
-I'm passionate about building high-quality, user-friendly software applications. I'm also a team player and I'm always eager to learn new things.
+Seeking new challenges, in 2024 I made the decision to leave PHP behind and dedicate myself to studying **React**, **React Native**, and **Node.js**, which I had been doing since the previous year.
 
-I'm currently open to work and I'm looking for a challenging opportunity where I can use my skills and experience to make a real impact.
+I'm currently open to work and looking for a challenging opportunity. <a href="https://www.linkedin.com/in/rodrigofontesdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="top" /></a>
 
 ### 🎭 Fun Facts
 
@@ -53,15 +53,7 @@ I'm currently open to work and I'm looking for a challenging opportunity where I
 # 🔎 How To Find Me
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/rodrigofontesdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/rodrigofontesdev">
-    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
-  </a>
-
-  <a href="mailto:oi@rodrigofontes.dev">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
+  <a href="https://www.linkedin.com/in/rodrigofontesdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://discord.com/users/rodrigofontesdev"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
+  <a href="mailto:oi@rodrigofontes.dev"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </p>
