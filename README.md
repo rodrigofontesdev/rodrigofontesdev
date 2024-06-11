@@ -22,25 +22,19 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">Frontend</h3>
-        <a href="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass,styledcomponents,tailwind,bootstrap&perline=3">
-         <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass,styledcomponents,tailwind,bootstrap&perline=3" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass,styledcomponents,tailwind,bootstrap&perline=3" />
         <br>
         <br>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Backend</h3>
-        <a href="https://skillicons.dev/icons?i=nodejs,ts,php,laravel,wordpress,mysql&perline=3">
-         <img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel,wordpress,mysql&perline=3" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel,wordpress,mysql&perline=3" />
         <br>
         <br>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Tools</h3>
-        <a href="https://skillicons.dev/icons?i=figma,docker,git,npm,yarn,postman,vite,linux,cloudflare&perline=3">
-         <img src="https://skillicons.dev/icons?i=figma,docker,git,npm,yarn,postman,vite,linux,cloudflare&perline=3" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=figma,docker,git,npm,yarn,postman,vite,linux,cloudflare&perline=3" />
         <br>
         <br>
       </td>
@@ -57,6 +51,30 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
 </p>
 
 # 🎖 Stats
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true" height="195" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true" height="195" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true" height="195" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ![rodrigofontesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true)
 ![rodrigofontesdev's Stats](https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true)
