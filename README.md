@@ -58,9 +58,6 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
 
 # 🎖 Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rodrigofontesdev&theme=react&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=440&card_height=195" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&show_icons=true&theme=react&card_width=400&hide_border=true&border_radius=6" /></a>
-</p>
-
-[![Rodrigo Fontes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofontesdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![rodrigofontesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true)
+![rodrigofontesdev's Stats](https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true)
+[![rodrigofontesdev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofontesdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
