@@ -1,18 +1,18 @@
 ### Hello World <img src="https://github.com/rodrigofontesdev/rodrigofontesdev/assets/17281370/3aec980f-f801-4c95-97b3-ac4f842814fa" align="top" width="24" height="24" />, I'm Rodrigo Fontes
 
-# 👨‍💻 I'm a Full-Stack Web Developer
+# 👨‍💻 Full Stack Web Developer
 
-A Brazilian from São Paulo, I'm a Web Developer with 9 years of experience. I have extensive background in PHP and am currently learning **React** and **Node**.
+A Brazilian from São Paulo, I'm a Web Developer with 9 years of experience. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node**.
 
-Seeking new challenges, in 2024 I made the decision to leave PHP behind and dedicate myself to studying **React**, **React Native**, and **Node.js**, which I had been doing since the previous year.
+Driven by a desire for new challenges, I made a strategic decision in 2024 to transition my stack and dedicate myself to in-depth learning of **React**, **React Native**, and **Node.js**. This decision was guided by my prior exploration of these technologies, which began the previous year.
 
 I'm currently open to work and looking for a challenging opportunity. <a href="https://www.linkedin.com/in/rodrigofontesdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="top" /></a>
 
 ### 🎭 Fun Facts
 
-- 🚑 On my 10th birthday I received a bicycle, and the next day I broke my jaw and the bicycle;
-- 🏋️ I enjoy going to the gym;
-- 💾 When I'm coding I need to press `CTRL+F` at least 3 times to make sure the file has been saved;
+- 🚑 Got a bike for my 10th birthday, broke my jaw (and the bike) the next day;
+- 🏋️ I enjoy going to the gym, I love to lift weights;
+- 💾 I gotta hit `CTRL+S` a few times to make sure my work is safe, only once is not enough;
 - 🥁 I'm also an ex-jQuery addict (just kidding! 😅).
 
 # 🧰 Skills
