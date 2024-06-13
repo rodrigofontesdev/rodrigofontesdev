@@ -1,8 +1,8 @@
 ### Hello World <img src="https://github.com/rodrigofontesdev/rodrigofontesdev/assets/17281370/3aec980f-f801-4c95-97b3-ac4f842814fa" align="top" width="24" height="24" />, I'm Rodrigo Fontes
 
-# 👨‍💻 Full Stack Web Developer
+# 👨‍💻 Front End Developer
 
-A Brazilian from São Paulo, I'm a Web Developer with 9 years of experience. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node**.
+A Brazilian from São Paulo, I'm a Developer with 9 years of proven experience. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node**.
 
 Driven by a desire for new challenges, I made a strategic decision in 2024 to transition my stack and dedicate myself to in-depth learning of **React**, **React Native**, and **Node.js**. This decision was guided by my prior exploration of these technologies, which began the previous year.
 
