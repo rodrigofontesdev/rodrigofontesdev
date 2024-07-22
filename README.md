@@ -25,7 +25,7 @@ Driven by a desire for new challenges, in 2024 I dove deeper into learning **Rea
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Tools</h3>
-        <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,npm,yarn,figma,postman,vite,jest,vitest,linux,cloudflare,vercel&perline=4" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,npm,yarn,figma,postman,vite,jest,vitest,linux&perline=4" />
         <br>
         <br>
       </td>
