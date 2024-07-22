@@ -13,13 +13,13 @@ Driven by a desire for new challenges, in 2024 I dove deeper into learning **Rea
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,styledcomponents,tailwind,bootstrap&perline=4" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,styledcomponents,tailwind,bootstrap,wordpress&perline=4" />
         <br>
         <br>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,wordpress,mysql,postgres,sqlite,redis,prisma&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,postgres,sqlite,redis,prisma&perline=4" />
         <br>
         <br>
       </td>
