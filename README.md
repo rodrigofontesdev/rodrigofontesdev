@@ -2,18 +2,9 @@
 
 # 👨‍💻 Front End Developer
 
-A Brazilian from São Paulo, I'm a Developer with 9 years of proven experience. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node**.
+A Developer from São Paulo, Brazil, with 9 years of experience in web application development. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node.js**.
 
-Driven by a desire for new challenges, I made a strategic decision in 2024 to transition my stack and dedicate myself to in-depth learning of **React**, **React Native**, and **Node.js**. This decision was guided by my prior exploration of these technologies, which began the previous year.
-
-I'm currently open to work and looking for a challenging opportunity. <a href="https://www.linkedin.com/in/rodrigofontesdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="top" /></a>
-
-### 🎭 Fun Facts
-
-- 🚑 Got a bike for my 10th birthday, broke my jaw (and the bike) the next day;
-- 🏋️ I enjoy going to the gym, I love to lift weights;
-- 💾 I gotta hit `CTRL+S` a few times to make sure my work is safe, only once is not enough;
-- 🥁 I'm also an ex-jQuery addict (just kidding! 😅).
+Driven by a desire for new challenges, in 2024 I dove deeper into learning **React** and **Node.js**, having already explored these technologies since 2022.
 
 # 🧰 Skills
 <br>
@@ -22,19 +13,19 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass,styledcomponents,tailwind,bootstrap&perline=3" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,styledcomponents,tailwind,bootstrap&perline=4" />
         <br>
         <br>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel,wordpress,mysql&perline=3" />
+        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,wordpress,mysql,postgres,sqlite,redis,prisma&perline=4" />
         <br>
         <br>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Tools</h3>
-        <img src="https://skillicons.dev/icons?i=figma,docker,git,npm,yarn,postman,vite,linux,cloudflare&perline=3" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,npm,yarn,figma,postman,vite,jest,vitest,linux,cloudflare,vercel&perline=4" />
         <br>
         <br>
       </td>
@@ -42,11 +33,10 @@ I'm currently open to work and looking for a challenging opportunity. <a href="h
   </tbody>
 </table>
 
-# 💌 Contact Me
+# 📧 Contact Me
 
 <p>  
   <a href="https://www.linkedin.com/in/rodrigofontesdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://discord.com/users/rodrigofontesdev"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
   <a href="mailto:oi@rodrigofontes.dev"><img src="https://img.shields.io/badge/Email-8234e9?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>  
 </p>
 
