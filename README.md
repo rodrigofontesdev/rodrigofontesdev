@@ -13,8 +13,6 @@ A Developer from São Paulo, Brazil, with 9 years of experience in web applicati
 Driven by a desire for new challenges, in 2024 I dove deeper into learning **React** and **Node.js**, having already explored these technologies since 2022.
 
 <br>
-<br>
-<br>
 
 # 🧰 Skills
 <br>
