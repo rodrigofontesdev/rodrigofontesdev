@@ -1,6 +1,6 @@
 ### Hello World <img src="https://github.com/rodrigofontesdev/rodrigofontesdev/assets/17281370/3aec980f-f801-4c95-97b3-ac4f842814fa" align="top" width="24" height="24" />, I'm Rodrigo Fontes
 
-# 👨‍💻 Front End Developer
+# 👨‍💻 Front-End Developer
 
 <img src="https://github.com/user-attachments/assets/b959c3cf-30b2-4233-8495-75661b39a485" align="right" width="250" height="250" />
 
