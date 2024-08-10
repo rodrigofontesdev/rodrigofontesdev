@@ -2,7 +2,7 @@
 
 # 👨‍💻 Front End Developer
 
-<img src="https://github.com/user-attachments/assets/b959c3cf-30b2-4233-8495-75661b39a485" align="right" width="310" height="310" />
+<img src="https://github.com/user-attachments/assets/b959c3cf-30b2-4233-8495-75661b39a485" align="right" width="250" height="250" />
 
 A Developer from São Paulo, Brazil, with 9 years of experience in web application development. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node.js**.
 
