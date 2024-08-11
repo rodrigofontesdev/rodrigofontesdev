@@ -5,13 +5,13 @@
 <img src="https://github.com/user-attachments/assets/b959c3cf-30b2-4233-8495-75661b39a485" align="right" width="250" height="250" />
 
 <br>
-<br>
-<br>
 
 A Developer from São Paulo, Brazil, with 9 years of experience in web application development. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node.js**.
 
 Driven by a desire for new challenges, in 2024 I dove deeper into learning **React** and **Node.js**, having already explored these technologies since 2022.
 
+<br>
+<br>
 <br>
 
 # 🧰 Skills
@@ -57,7 +57,7 @@ Driven by a desire for new challenges, in 2024 I dove deeper into learning **Rea
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigofontesdev&theme=react&hide_border=true" height="195" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rodrigofontesdev&theme=react&show_icons=true&hide_border=true&count_private=true&hide=stars" height="195" />
       </td>
     </tr>
   </tbody>
