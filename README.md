@@ -2,7 +2,7 @@
 
 # 👨‍💻 Front-End Developer
 
-<img src="https://github.com/user-attachments/assets/b959c3cf-30b2-4233-8495-75661b39a485" align="right" width="250" height="250" />
+<img src="https://github.com/user-attachments/assets/7def8a5e-f6d9-4e56-85dd-099b768799a2" align="right" width="250" height="250" />
 
 <br>
 
