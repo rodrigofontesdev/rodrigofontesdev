@@ -62,5 +62,3 @@ Driven by a desire for new challenges, in 2024 I dove deeper into learning **Rea
     </tr>
   </tbody>
 </table>
-
-[![rodrigofontesdev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofontesdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
