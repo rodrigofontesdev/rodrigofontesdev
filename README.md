@@ -6,9 +6,7 @@
 
 <br>
 
-A Developer from São Paulo, Brazil, with 9 years of experience in web application development. I have a strong background in PHP and am currently expanding my skillset by learning **React** and **Node.js**.
-
-Driven by a desire for new challenges, in 2024 I dove deeper into learning **React** and **Node.js**, having already explored these technologies since 2022.
+A Developer from São Paulo, Brazil, with 9 years of hands-on experience in web application development. I have a solid experience in **JavaScript**, **TypeScript**, and **React.js**. Additionally, my strong foundation in **PHP** and **Laravel** enables me to develop robust backend systems, making me a well-rounded professional capable of delivering complete and efficient solutions.
 
 <br>
 <br>
