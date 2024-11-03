@@ -6,7 +6,7 @@
 
 <br>
 
-A Developer from São Paulo, Brazil, with 9 years of hands-on experience in web application development. I have a solid experience in **JavaScript**, **TypeScript**, and **React.js**. Additionally, my strong foundation in **PHP** and **Laravel** enables me to develop robust backend systems, making me a well-rounded professional capable of delivering complete and efficient solutions.
+A Developer from São Paulo, Brazil, with 9 years of hands-on experience in web application development. I have a solid experience in **JavaScript**, **TypeScript**, **React**, and **Next.js**. Additionally, my strong foundation in **PHP** and **Laravel** enables me to develop robust backend systems, making me a well-rounded professional capable of delivering complete and efficient solutions.
 
 <br>
 <br>
